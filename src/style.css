@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.card img {
+    height: 250px;
+    width: 100%;
+}
+
+.header {
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    color: goldenrod;
+    font-family: Elephant;
+    font-size: 4vw;
+    text-align: center;
+    padding-top: 25px;
+}
